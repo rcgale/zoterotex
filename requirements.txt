@@ -1,0 +1,2 @@
+pyzotero==1.5.9
+bibtexparser==1.4.0
